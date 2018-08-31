@@ -10,4 +10,4 @@ O trabalho em questão possui o objetivo de desenvolver um sistema de gestão de
 
 ### Project Mode Canvas:
 
-
+https://github.com/gmarchezi/gestaodefrota/blob/master/Canvas_POO.pdf
